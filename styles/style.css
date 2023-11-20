@@ -196,6 +196,8 @@ body {
     position: relative;
     left: 77px;
 
+    border: 2px solid var(--blue-color);
+
     background-color: var(--blue-color);
 
     color: var(--white-color);
@@ -210,6 +212,8 @@ body {
 .block_1 .button .bm2 {
     position: relative;
     left: 150px;
+
+    border: 2px solid var(--blue-color);
 
     background-color: transparent;
 
@@ -269,6 +273,7 @@ body {
     margin: 621px 0px 0px 67px;
 
     border-radius: 10px;
+    border: 2px solid var(--blue-color);
 
     box-shadow: 11px 21px 15px rgb(0, 0, 0, 0.25);
 
@@ -761,5 +766,3 @@ hr {
     margin: 0px 25px 0px 0px;
 }
 
-/* <section signature> */
-/* <footer> */
